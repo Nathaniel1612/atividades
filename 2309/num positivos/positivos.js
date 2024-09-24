@@ -1,0 +1,1 @@
+let np=Number(prompt('Insira um valor positivo'))
